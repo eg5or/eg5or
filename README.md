@@ -1,3 +1,4 @@
+```javascript
 if (idea > 0 && decentPay === true) {
   const phoneNumber = '8-926-340-01-..'
   telegram === true ? telegram.sendMessage('@eg5or') : whatsapp.sendMessage(phoneNumber)
@@ -14,3 +15,4 @@ const yourProject = (mySkills, idea, decentPay) => {
 }
 
 yourProject(mySkills, idea, decentPay)
+```
